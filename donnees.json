@@ -1,0 +1,16 @@
+{
+  "lecteurs": [
+    {
+      "nom": "PALE",
+      "prenom": "Sie steven leriche herve",
+      "contact": "05546111003",
+      "motif": "lecture sur place",
+      "profession": "Étudiant",
+      "numero": 1,
+      "carte_fidelite": "",
+      "abonnement": 0,
+      "date_inscription": "2026-11-19"
+    }
+  ],
+  "emprunts": []
+}
