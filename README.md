@@ -2,6 +2,8 @@
 
 voici le lien de mon portefolio: https://stevenleriche9-ui.github.io/portefolio/
 
+lien de la capture video ici : https://drive.google.com/file/d/1PUXdfYsZazbersZhDm8hZos1w7y0bHB8/view?usp=drive_link
+
 Application en ligne de commande (Python) pour gérer une petite bibliothèque : inscription des lecteurs, emprunts, retours et suivi des retards. Les données sont enregistrées dans un fichier JSON.
 
 ## Fonctionnalités
