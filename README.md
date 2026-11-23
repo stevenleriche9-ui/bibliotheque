@@ -1,5 +1,7 @@
 # 📚 Gestion de bibliothèque
 
+voici le lien de mon portefolio: https://stevenleriche9-ui.github.io/portefolio/
+
 Application en ligne de commande (Python) pour gérer une petite bibliothèque : inscription des lecteurs, emprunts, retours et suivi des retards. Les données sont enregistrées dans un fichier JSON.
 
 ## Fonctionnalités
